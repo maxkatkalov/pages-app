@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-+^)(v@-sahktx)h-7u9l$vierj9)=15b7lp(7_hyb6jpz)k0yh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['pages-app.techone.pp.ua']
+ALLOWED_HOSTS = ['pages-app.techone.pp.ua', '127.0.0.1']
 
 
 # Application definition
